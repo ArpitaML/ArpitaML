@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="500"/>
 </div>
 <!--
 **ArpitaML/ArpitaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
